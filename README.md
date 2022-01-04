@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sushi418
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hi
+## Sushma Narsayya
+data science | data analyst| Psychology
 
-<!---
-sushi418/sushi418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## basically my circle of intrest
