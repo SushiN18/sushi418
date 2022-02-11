@@ -5,9 +5,9 @@ data science | data analyst| Psychology
 
 
 ## Its me 😁
-Likes music
-Traveller ❤️
-Talkative
+Likes music <br>
+Traveller ❤️ <br>
+Talkative <br>
 Foodie
 
 ## Social Media Handles
